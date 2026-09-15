@@ -3,4 +3,4 @@
 [![Releases](https://img.shields.io/github/release/aungphonemyint412-prog/Sem/all.svg?style=flat-square)](https://github.com/aungphonemyint412-prog/Sem/releases)
 
 # DevOps
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/aungphonemyint412-prog/Sem/A workflow for my Hello World App/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/aungphonemyint412-prog/Sem/main.yml?branch=develop&style=flat-square)
